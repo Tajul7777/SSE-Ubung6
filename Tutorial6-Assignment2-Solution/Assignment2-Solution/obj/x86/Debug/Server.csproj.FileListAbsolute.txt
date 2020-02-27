@@ -1,0 +1,9 @@
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\bin\Debug\ConsoleApplication1.exe
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\bin\Debug\ConsoleApplication1.pdb
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\bin\Debug\HttpLib.dll
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\bin\Debug\HttpLib.pdb
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\markus\Dropbox\VSR\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\markus\Dropbox\VSR\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies SOAP MEP\material\03StockPriceUpdate_completed\obj\x86\Debug\ConsoleApplication1.pdb
